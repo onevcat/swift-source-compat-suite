@@ -852,8 +852,8 @@
     "maintainer": "onev@onevcat.com",
     "compatibility": [
       {
-        "version": "3.0",
-        "commit": "5cfa0dd5c9fc48e1c31f574ad8eaa31a3a9d4003"
+        "version": "4.0",
+        "commit": "9208ffee5dd9eb752674af5efd415cc27dbab752"
       }
     ],
     "platforms": [
